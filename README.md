@@ -6,7 +6,7 @@
       python. I'm still learning Javascript, but I'd be willing to work on web projects to learn 
       more.
 - 📫 How to reach me
-      discord: Croissantaye#3999
+      discord: Croissantaye
       email: asa81099@gmail.com
 
 <!---
